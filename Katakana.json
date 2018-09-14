@@ -1,0 +1,434 @@
+[
+    {
+        "AaLine" : [
+            {
+                "Small" : [
+                    {
+                        "aa" : "\u30A1",
+                        "ii" : "\u30A3",
+                        "uu" : "\u30A5",
+                        "ee" : "\u30A7",
+                        "oo" : "\u30A9"
+                    }
+                ]
+            },
+            {
+                "Normal" : [
+                    {
+                        "Aa" : "\u30A2",
+                        "Ii" : "\u30A4",
+                        "Uu" : "\u30A6",
+                        "Ee" : "\u30A8",
+                        "Oo" : "\u30AA"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "KaLine" : [
+            {
+                "Normal" : [
+                    {
+                        "Ka" : "\u30AB",
+                        "Ki" : "\u30AD",
+                        "Ku" : "\u30AF",
+                        "Ke" : "\u30B1",
+                        "Ko" : "\u30B3"
+                    }
+                ]
+            },
+            {
+                "Tenten" : [
+                    {
+                        "ga" : "\u30AC",
+                        "gi" : "\u30AE",
+                        "gu" : "\u30B0",
+                        "ge" : "\u30B2",
+                        "go" : "\u30B4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "SaLine" : [
+            {
+                "Normal" : [
+                    {
+                        "Sa" : "\u30B5",
+                        "Shi" : "\u30B7",
+                        "Su" : "\u30B9",
+                        "Se" : "\u30BB",
+                        "So" : "\u30BD"
+                    }
+                ]
+            },
+            {
+                "Tenten" : [
+                    {
+                        "za" : "\u30B6",
+                        "zi" : "\u30B8",
+                        "zu" : "\u30BA",
+                        "ze" : "\u30BC",
+                        "zo" : "\u30BE"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "TaLine" : [
+            {
+                "Small" : [
+                    {
+                        "tsu" : "\u30C3"
+                    }
+                ]
+            },
+            {
+                "Normal" : [
+                    {
+                        "Ta" : "\u30BF",
+                        "Chi" : "\u30C1",
+                        "Tsu" : "\u30C4",
+                        "Te" : "\u30C6",
+                        "To" : "\u30C8"
+                    }
+                ]
+            },
+            {
+                "Tenten" : [
+                    {
+                        "da" : "\u30C0",
+                        "di" : "\u30C2",
+                        "du" : "\u30C5",
+                        "de" : "\u30C7",
+                        "do" : "\u30C9"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "NaLine" : [
+            {
+                "Normal" : [
+                    {
+                        "Na" : "\u30CA",
+                        "Ni" : "\u30CB",
+                        "Nu" : "\u30CC",
+                        "Ne" : "\u30CD",
+                        "No" : "\u30CE"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "HaLine" : [
+            {
+                "Normal" : [
+                    {
+                        "Ha" : "\u30CF",
+                        "Hi" : "\u30D2",
+                        "Fu" : "\u30D5",
+                        "He" : "\u30D8",
+                        "Ho" : "\u30DB"
+                    }
+                ]
+            },
+            {
+                "Tenten" : [
+                    {
+                        "Ba" : "\u30D0",
+                        "Bi" : "\u30D3",
+                        "Bu" : "\u30D6",
+                        "Be" : "\u30D9",
+                        "Bo" : "\u30DC"
+                    }
+                ]
+            },
+            {
+                "Maru" : [
+                    {
+                        "Pa" : "\u30D1",
+                        "Pi" : "\u30D4",
+                        "Pu" : "\u30D7",
+                        "Pe" : "\u30DA",
+                        "Po" : "\u30DD"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "MaLine" : [
+            {
+                "Normal" : [
+                    {
+                        "Ma" : "\u30DE",
+                        "Mi" : "\u30DF",
+                        "Mu" : "\u30E0",
+                        "Me" : "\u30E1",
+                        "Mo" : "\u30E2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "YaLine" : [
+            {
+                "Small" : [
+                    {
+                        "ya" : "\u30E3",
+                        "yu" : "\u30E5",
+                        "yo" : "\u30E7"
+                    }
+                ]
+            },
+            {
+                "Normal" : [
+                    {
+                        "Ya" : "\u30E4",
+                        "Yu" : "\u30E6",
+                        "Yo" : "\u30E8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "RaLine" : [
+            {
+                "Normal" : [
+                    {
+                        "Ra" : "\u30E9",
+                        "Ri" : "\u30EA",
+                        "Ru" : "\u30EB",
+                        "Re" : "\u30EC",
+                        "Ro" : "\u30ED"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "WanNLine" : [
+            {
+                "Small" : [
+                    {
+                        "wa" : "\u30EE"
+                    }
+                ]
+            },
+            {
+                "Normal" : [
+                    {
+                        "Wa" : "\u30EF",
+                        "o" : "\u30F2",
+                        "N" : "\u30F3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "JumpSounds" : [
+            {
+                "KaLine" : [
+                    {
+                        "kka" : "\u30C3\u30AB" ,
+                        "kki" : "\u30C3\u30AD",
+                        "kku" : "\u30C3\u30AF",
+                        "kke" : "\u30C3\u30B1",
+                        "kko" : "\u30C3\u30B3"
+                    }
+                ]
+            },
+            {
+                "SaLine" : [
+                    {
+                        "ssa" : "\u30C3\u30B5",
+                        "sshi" : "\u30C3\u30B7",
+                        "ssu" : "\u30C3\u30B9",
+                        "sse" : "\u30C3\u30BB",
+                        "sso" : "\u30C3\u30BD"
+                    }
+                ]
+            },
+            {
+                "TaLine" : [
+                    {
+                        "tta" : "\u30C3\u30BF",
+                        "tchi" : "\u30C3\u30C1",
+                        "ttsu" : "\u30C3\u30C4",
+                        "tte" : "\u30C3\u30C6",
+                        "tto" : "\u30C3\u30C8"
+                    }
+                ]
+            },
+            {
+                "PaLine" : [
+                    {
+                        "ppa" : "\u30C3\u30D1",
+                        "ppi" : "\u30C3\u30D4",
+                        "ppu" : "\u30C3\u30D7",
+                        "ppe" : "\u30C3\u30DA",
+                        "ppo" : "\u30C3\u30DD"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "LongSounds" : [
+            {
+                "KaLine" : [
+                    {
+                        "kaa" : "\u30AB\u30A1",
+                        "kii" : "\u30AD\u30A3",
+                        "kuu" : "\u30AF\u30A5",
+                        "kei" : "\u30A1\u30A7",
+                        "koo" : "\u30A3\u30A9"
+                    }
+                ]
+            },
+            {
+                "SaLine" : [
+                    {
+                        "saa" : "\u30B5\u30A1",
+                        "shii" : "\u30B7\u30A3",
+                        "suu" : "\u30B9\u30A5",
+                        "sei" : "\u30BB\u30A7",
+                        "soo" : "\u30BD\u30A9"
+                    }
+                ]
+            },
+            {
+                "TaLine" : [
+                    {
+                        "taa" : "\u30BF\u30A1",
+                        "chii" : "\u30C1\u30A3",
+                        "tsuu" : "\u30C4\u30A5",
+                        "tei" : "\u30C6\u30A7",
+                        "too" : "\u30C8\u30A9"
+                    }
+                ]
+            },
+            {
+                "UnorderedLine" : [
+                    {
+                        "nee" : "\u30CD\u30A7",
+                        "oo" : "\u30A9\u30A9",
+                        "too" : "\u30C8\u30A5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Combinations" : [
+            {
+                "kyCom" : [
+                    {
+                        "kya" : "\u30AD\u30E3",
+                        "kyu" : "\u30AD\u30E5",
+                        "kyo" : "\u30AD\u30E7"
+                    }
+                ]
+            },
+            {
+                "gyCom" : [
+                    {
+                        "gya" : "\u30AE\u30E3",
+                        "gyu" : "\u30AE\u30E5",
+                        "gyo" : "\u30AE\u30E7"
+                    }
+                ]
+            },
+            {
+                "syCom" : [
+                    {
+                        "sha" : "\u30B7\u30E3",
+                        "shu" : "\u30B7\u30E5",
+                        "sho" : "\u30B7\u30E7"
+                    }
+                ]
+            },
+            {
+                "jyCom" : [
+                    {
+                        "ja" : "\u30B8\u30E3",
+                        "ju" : "\u30B8\u30E5",
+                        "jo" : "\u30B8\u30E7"
+                    }
+                ]
+            },
+            {
+                "tyCom" : [
+                    {
+                        "cha" : "\u30C1\u30E3",
+                        "chu" : "\u30C1\u30E5",
+                        "cho" : "\u30C1\u30E7"
+                    }
+                ]
+            },
+            {
+                "nyCom" : [
+                    {
+                        "nya" : "\u30CB\u30E3",
+                        "nyu" : "\u30CB\u30E5",
+                        "nyo" : "\u30CB\u30E7"
+                    }
+                ]
+            },
+            {
+                "hyCom" : [
+                    {
+                        "hya" : "\u30D2\u30E3",
+                        "hyu" : "\u30D2\u30E5",
+                        "hyo" : "\u30D2\u30E7"
+                    }
+                ]
+            },
+            {
+                "byCom" : [
+                    {
+                        "bya" : "\u30D3\u30E3",
+                        "byu" : "\u30D3\u30E5",
+                        "byo" : "\u30D3\u30E7"
+                    }
+                ]
+            },
+            {
+                "pyCom" : [
+                    {
+                        "pya" : "\u30D4\u30E3",
+                        "pyu" : "\u30D4\u30E5",
+                        "pyo" : "\u30D4\u30E7"
+                    }
+                ]
+            },
+            {
+                "myCom" : [
+                    {
+                        "mya" : "\u30DF\u30E3",
+                        "myu" : "\u30DF\u30E5",
+                        "myo" : "\u30DF\u30E7"
+                    }
+                ]
+            },
+            {
+                "ryCom" : [
+                    {
+                        "rya" : "\u30EA\u30E3",
+                        "ryu" : "\u30EA\u30E5",
+                        "ryo" : "\u30EA\u30E7"
+                    }
+                ]
+            }
+        ]
+    }
+]
