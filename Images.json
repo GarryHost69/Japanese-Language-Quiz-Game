@@ -1,0 +1,50 @@
+{
+    "Apple" : [
+        {
+            "fname" : "images/Apple.jpg"
+        },
+        {
+            "HiraganaWord" : "\u308A\u3093\u3054"
+        }
+    ],
+    "Orange" : [
+        {
+            "fname" : "images/Orange.jpg"
+        },
+        {
+            "HiraganaWord" : "\u307F\u304B\u3093"
+        }
+    ],
+    "Classroom" : [
+        {
+            "fname" : "images/ClassRoom.jpg"
+        },
+        {
+            "HiraganaWord" : "\u304D\u3087\u3057\u3064"
+        }
+    ],
+    "White" : [
+        {
+            "fname" : "images/White.png"
+        },
+        {
+            "HiraganaWord" : "\u3057\u308D"
+        }
+    ],
+    "Black" : [
+        {
+            "fname" : "images/Black.png"
+        },
+        {
+            "HiraganaWord" : "\u304F\u308D"
+        }
+    ],
+    "Red" : [
+        {
+            "fname" : "images/Red.png"
+        },
+        {
+            "HiraganaWord" : "\u3042\u304B"
+        }
+    ]
+}
